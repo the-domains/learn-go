@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Learn How To Play Go - Understanding The Rules Of Go]]></title>
         <description><![CDATA[Learn How To Play Go - Understanding The Rules Of Go]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/learn-go/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 11:01:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 11:10:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/learn-go/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lesson 2 - Groups]]></title>
+            <description><![CDATA[<h1>Lesson 2 - Groups</h1>]]></description>
+            <link>https://thegrid.ai/learn-go/lesson-2-groups/index.html</link>
+            <guid isPermaLink="false">f486acfb-7965-4a61-b16e-1dd7ea0721cc</guid>
+            <pubDate>Mon, 14 Mar 2016 11:10:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lesson 1 - The Rules of Go]]></title>
             <description><![CDATA[<article><h1>Lesson 1 - The Rules of Go</h1><h2>Step 1 - let's capture some stones!</h2></article>]]></description>
-            <link>undefinedlesson-1-the-rules-of-go/index.html</link>
+            <link>https://thegrid.ai/learn-go/lesson-1-the-rules-of-go/index.html</link>
             <guid isPermaLink="false">a8482508-4952-42d4-ad77-4778f709df22</guid>
             <pubDate>Mon, 14 Mar 2016 11:01:27 GMT</pubDate>
         </item>
