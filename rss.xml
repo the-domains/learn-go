@@ -4,11 +4,11 @@
         <description><![CDATA[Learn How To Play Go - Understanding The Rules Of Go]]></description>
         <link>https://thegrid.ai/learn-go/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 11:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 11:21:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/learn-go/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lesson 2 - Groups]]></title>
-            <description><![CDATA[<h1>Lesson 2 - Groups</h1>]]></description>
+            <description><![CDATA[<article><h1>Lesson 2 - Groups</h1><p>As you learned in the previous lesson, a stone has up to 4 liberties on the board and the opponent needs to take all of them to capture the stone.</p></article>]]></description>
             <link>https://thegrid.ai/learn-go/lesson-2-groups/index.html</link>
             <guid isPermaLink="false">f486acfb-7965-4a61-b16e-1dd7ea0721cc</guid>
             <pubDate>Mon, 14 Mar 2016 11:10:36 GMT</pubDate>
@@ -18,7 +18,7 @@
             <description><![CDATA[<article><h1>Lesson 1 - The Rules of Go</h1><h2>Step 1 - let's capture some stones!</h2></article>]]></description>
             <link>https://thegrid.ai/learn-go/lesson-1-the-rules-of-go/index.html</link>
             <guid isPermaLink="false">a8482508-4952-42d4-ad77-4778f709df22</guid>
-            <pubDate>Mon, 14 Mar 2016 11:01:27 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2016 11:20:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
