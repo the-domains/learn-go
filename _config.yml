@@ -1,0 +1,28 @@
+name: Learn Go
+favicon: null
+layout_spectrum: 0.40077216806821525
+typography_spectrum: 0.06367439730092883
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8940770623739809
+  lightness: 0.16246932675130665
+  saturation: 0.4056758650112897
+  rhythmicContrast: 0.2777994016651064
+purpose: []
