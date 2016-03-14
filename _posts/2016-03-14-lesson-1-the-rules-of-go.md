@@ -1,28 +1,28 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-14T11:20:54.227Z'
-dateModified: '2016-03-14T11:20:40.993Z'
-title: Lesson 1 - The Rules of Go
+datePublished: '2016-03-14T11:24:54.433Z'
+dateModified: '2016-03-14T11:24:09.202Z'
+title: Lesson 1 - Introduction
 author: []
+sourcePath: _posts/2016-03-14-lesson-1-the-rules-of-go.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-lesson-1-the-rules-of-go.md
-published: true
 url: lesson-1-the-rules-of-go/index.html
 _type: Article
 
 ---
-# Lesson 1 - The Rules of Go
+# Lesson 1 - Introduction
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7737fd61-1ceb-43b0-a362-e37f0fa713b0.jpg)
 
 New to the game of Go? Check this page first. The rules are simple and it takes no more than 5 minutes to know them. Have fun!
