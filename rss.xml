@@ -4,7 +4,7 @@
         <description><![CDATA[Learn How To Play Go - Understanding The Rules Of Go]]></description>
         <link>https://thegrid.ai/learn-go/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 11:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 11:25:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/learn-go/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lesson 2 - Groups]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Mon, 14 Mar 2016 11:10:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Lesson 1 - The Rules of Go]]></title>
-            <description><![CDATA[<article><h1>Lesson 1 - The Rules of Go</h1><h2>Step 1 - let's capture some stones!</h2></article>]]></description>
+            <title><![CDATA[Lesson 1 - Introduction]]></title>
+            <description><![CDATA[<article><h1>Lesson 1 - Introduction</h1><h2>Step 1 - let's capture some stones!</h2></article>]]></description>
             <link>https://thegrid.ai/learn-go/lesson-1-the-rules-of-go/index.html</link>
             <guid isPermaLink="false">a8482508-4952-42d4-ad77-4778f709df22</guid>
-            <pubDate>Mon, 14 Mar 2016 11:20:54 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2016 11:24:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
