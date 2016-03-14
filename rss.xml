@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Learn How To Play Go - Understanding The Rules Of Go]]></title>
+        <description><![CDATA[Learn How To Play Go - Understanding The Rules Of Go]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Mar 2016 11:01:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lesson 1 - The Rules of Go]]></title>
+            <description><![CDATA[<article><h1>Lesson 1 - The Rules of Go</h1><h2>Step 1 - let's capture some stones!</h2></article>]]></description>
+            <link>undefinedlesson-1-the-rules-of-go/index.html</link>
+            <guid isPermaLink="false">a8482508-4952-42d4-ad77-4778f709df22</guid>
+            <pubDate>Mon, 14 Mar 2016 11:01:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
